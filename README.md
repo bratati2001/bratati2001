@@ -1,6 +1,5 @@
-<h1 align="center">
-  ###Hi 👋, I'm Bratati Das</h1>
-
+<h1 align="center">Hi there 👋</h1>
+### I'm Bratati Das
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bratati2001&label=Profile%20views&color=0e75b6&style=flat" alt="bratati2001" /> </p>
 
 <h3 align="left">Connect with me:</h3>
